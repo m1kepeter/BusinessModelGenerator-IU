@@ -1,8 +1,9 @@
 # Business Model Generator
 ## Introduction
 In this repository I extracted my own work from the [origin repository (private)](https://github.com/MauriceN/IU-SE-Fallstudie-BMG) which our team used in university.
-This is just a prototype and not the final version of the product!
-[Here you can watch a prototype test.](https://mikepeter.de/data/bmg_mockup.mp4)
+
+This is just a prototype and **not** the final version of the product!
+[On this link you can get a prototype preview](https://mikepeter.de/data/bmg_mockup.mp4)
 
 
 ## PHP local installation
