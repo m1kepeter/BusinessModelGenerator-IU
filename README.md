@@ -9,4 +9,4 @@ This is just a prototype and **not** the final version of the product!
 ## PHP local installation
 To test the prototype you need to run a local PHP server on your computer. This is very easy with [XAMPP](https://www.apachefriends.org/de/download.html).
 ### Apple Silicon
-Working with other versions than **v7.3.13** could lead to problems on Apple Silicon machines. [Click here to download v7.3.13](https://sourceforge.net/projects/xampp/files/XAMPP%20Mac%20OS%20X/7.3.31/)
+Working with other versions than **v7.3.13** could lead to problems on Apple Silicon machines. [Click here to download v7.3.13](https://sourceforge.net/projects/xampp/files/XAMPP%20Mac%20OS%20X/7.3.31/).
