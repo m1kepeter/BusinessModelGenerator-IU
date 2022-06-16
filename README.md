@@ -1,6 +1,6 @@
 # Business Model Generator
 ## Introduction
-In this repository I extracted my own work from the [origin repository](https://github.com/MauriceN/IU-SE-Fallstudie-BMG).
+In this repository I extracted my own work from the [origin repository (private)](https://github.com/MauriceN/IU-SE-Fallstudie-BMG) which our team used in university.
 
 This is just a prototype and not the final version of the product!
 
