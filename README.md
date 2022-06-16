@@ -1,5 +1,5 @@
 # Business Model Generator
-##Introduction
+## Introduction
 In this repository I extracted my own work from the origin repository: https://github.com/MauriceN/IU-SE-Fallstudie-BMG
 This is just a prototype and not the final version of the product!
 
